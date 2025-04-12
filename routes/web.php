@@ -15,7 +15,7 @@ Route::get('/login', [MainController::class, 'login_function'])
 Route::get('/register', [MainController::class, 'register_function'])
   ->name('registeration');
 
-Route::Post('/registelr', [MainController::class, 'store_user'])
+Route::Post('/register', [MainController::class, 'store_user'])
   ->name('register_user');
 
   Route::get('/home', [MainController::class, 'home'])
