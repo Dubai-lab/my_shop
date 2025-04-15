@@ -19,5 +19,5 @@
         </form>
     </div>
     @endforeach
-</div>
+
 @endsection

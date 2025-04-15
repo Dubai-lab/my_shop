@@ -15,6 +15,8 @@
             <ul class="menu">
                 <li><a href="{{route('home_page')}}">Home</a></li>
                 <li><a href="{{route('product_page')}}">Products</a></li>
+                <li><a href="{{route('all_books')}}">All Books</a></li>
+                <li><a href="{{route('new_book')}}">New Books</a></li>
                 <li><a href="{{route('logout')}}">Logout</a></li>
             </ul>
         </div>

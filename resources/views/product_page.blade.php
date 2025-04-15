@@ -32,7 +32,7 @@
             <br>
             <button type="submit" class="button">Create Product</button>
         </form>
-    </div>
+    </div> 
 @endsection
 
 
